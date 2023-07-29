@@ -173,6 +173,7 @@ export type Lang =
   | 'shaderlab' | 'shader'
   | 'shellscript' | 'bash' | 'console' | 'sh' | 'shell' | 'zsh'
   | 'smalltalk'
+  | 'snippets'
   | 'solidity'
   | 'sparql'
   | 'sql'
